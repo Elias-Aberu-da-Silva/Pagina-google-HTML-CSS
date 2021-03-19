@@ -1,2 +1,2 @@
 # Pagina-google-HTML-CSS
-Desenvolvimento da página do Google na prática.
+Desenvolvimento da página inicial do Google na prática.
